@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 7.635 s <<< FAILURE! - in TestSuite
+initBrowser(user.demo.nopcommerce.com.TC_01_Register)  Time elapsed: 6.997 s  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'VINHNNB', ip: '172.22.192.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: driver.version: RemoteWebDriver
+	at user.demo.nopcommerce.com.TC_01_Register.initBrowser(TC_01_Register.java:21)
+Caused by: java.net.ConnectException: Failed to connect to mgmdaddeevm01/10.55.6.28:80
+	at user.demo.nopcommerce.com.TC_01_Register.initBrowser(TC_01_Register.java:21)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at user.demo.nopcommerce.com.TC_01_Register.initBrowser(TC_01_Register.java:21)
+
+afterClass(user.demo.nopcommerce.com.TC_01_Register)  Time elapsed: 7.071 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Empty command
+	at user.demo.nopcommerce.com.TC_01_Register.afterClass(TC_01_Register.java:68)
+

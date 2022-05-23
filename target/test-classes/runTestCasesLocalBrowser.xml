@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >-->
+<suite parallel="false" name="Run Test Case Class" thread-count="1">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+
+	<test name="Run on local chrome">
+		<parameter name="browser" value="chrome" />
+		<parameter name="url" value="https://demo.nopcommerce.com/" />
+		<parameter name="ipAddress" value="localhost" />
+		<parameter name="port" value="4444" />
+		<classes>
+			<class name="user.demo.nopcommerce.com.TC_01_Register" />
+		</classes>
+	</test>
+
+</suite>

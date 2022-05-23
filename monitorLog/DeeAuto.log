@@ -1,0 +1,918 @@
+[INFO ] [2022-05-12 16:39:44,227] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-12 16:39:51,766] Browser name and version is: chrome 101.0.4951.64
+[INFO ] [2022-05-12 16:39:51,958] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-12 16:39:52,850] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-12 16:39:52,945] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-12 16:39:53,077] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-12 16:39:53,204] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-12 16:39:53,359] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-12 16:39:53,501] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-12 16:39:53,639] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-12 16:39:54,706] TC_01_Register_With_Valid_User_Name_Password - Step 9: Click on 'Register' field 
+[INFO ] [2022-05-12 16:39:54,772]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-12 16:39:54,943] Close browser
+[INFO ] [2022-05-12 16:39:54,943] OS name = windows 10
+[INFO ] [2022-05-12 16:39:54,944] Driver instance name = windows 10
+[INFO ] [2022-05-12 16:44:07,069] Close browser
+[INFO ] [2022-05-12 16:44:07,070] OS name = windows 10
+[INFO ] [2022-05-12 16:44:07,070] 
+[INFO ] [2022-05-12 16:56:50,453] Close browser
+[INFO ] [2022-05-12 16:56:50,454] OS name = windows 10
+[INFO ] [2022-05-12 16:56:50,455] 
+[INFO ] [2022-05-12 16:57:07,123] Close browser
+[INFO ] [2022-05-12 16:57:07,125] OS name = windows 10
+[INFO ] [2022-05-12 16:57:07,125] 
+[INFO ] [2022-05-13 11:10:17,885] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-13 11:10:32,208] Browser name and version is: firefox 91.7.1
+[INFO ] [2022-05-13 11:10:32,467] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-13 11:10:36,238] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-13 11:10:37,383] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-13 11:10:37,503] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-13 11:10:37,941] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-13 11:10:38,414] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-13 11:10:38,821] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-13 11:10:38,939] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-13 11:10:40,162] TC_01_Register_With_Valid_User_Name_Password - Step 9: Click on 'Register' field 
+[INFO ] [2022-05-13 11:10:40,230]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-13 11:10:40,612] Close browser
+[INFO ] [2022-05-13 11:10:40,613] OS name = windows 10
+[INFO ] [2022-05-13 11:10:40,613] Driver instance name = windows 10
+[INFO ] [2022-05-13 11:12:58,638] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-13 11:13:09,971] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-13 11:13:11,629] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-13 11:13:12,562] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-13 11:13:12,663] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-13 11:13:13,053] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-13 11:13:13,495] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-13 11:13:13,924] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-13 11:13:14,018] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-13 11:13:15,006] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-13 11:13:15,277]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-13 11:13:15,534] Close browser
+[INFO ] [2022-05-13 11:13:15,534] OS name = windows 10
+[INFO ] [2022-05-13 11:13:15,534] Driver instance name = windows 10
+[INFO ] [2022-05-13 11:17:56,965] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-13 11:18:17,404] Browser name and version is: msedge 101.0.1210.39
+[INFO ] [2022-05-13 11:18:17,616] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-13 11:18:19,547] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-13 11:18:19,846] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-13 11:18:20,401] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-13 11:18:20,846] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-13 11:18:21,347] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-13 11:18:21,847] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-13 11:18:22,640] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-13 11:18:23,790] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-13 11:18:23,871]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-13 11:18:24,188] Close browser
+[INFO ] [2022-05-13 11:18:24,188] OS name = windows 10
+[INFO ] [2022-05-13 11:18:24,188] Driver instance name = windows 10
+[INFO ] [2022-05-17 10:18:24,747] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-17 10:18:34,743] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-17 10:18:34,892] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-17 10:18:35,624] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-17 10:18:35,708] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-17 10:18:35,868] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-17 10:18:36,079] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-17 10:18:36,256] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-17 10:18:36,427] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-17 10:18:36,572] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-17 10:18:37,637] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-17 10:18:37,693]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-17 10:18:37,856] Close browser
+[INFO ] [2022-05-17 10:18:37,858] OS name = windows 10
+[INFO ] [2022-05-17 10:18:37,859] Driver instance name = windows 10
+[INFO ] [2022-05-17 14:56:54,593] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-17 14:57:01,564] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-17 14:57:01,761] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-17 14:57:02,584] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-17 14:57:02,674] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-17 14:57:02,814] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-17 14:57:02,939] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-17 14:57:03,085] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-17 14:57:03,222] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-17 14:57:03,359] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-17 14:57:04,323] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-17 14:57:04,380]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-17 14:57:04,519] Close browser
+[INFO ] [2022-05-17 14:57:04,519] OS name = windows 10
+[INFO ] [2022-05-17 14:57:04,520] Driver instance name = windows 10
+[INFO ] [2022-05-18 17:38:59,289] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-18 17:39:08,337] Close browser
+[INFO ] [2022-05-18 17:39:08,338] OS name = windows 10
+[INFO ] [2022-05-18 17:39:08,338] 
+[INFO ] [2022-05-19 10:19:40,027] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 10:20:09,085] Close browser
+[INFO ] [2022-05-19 10:20:09,086] OS name = windows 10
+[INFO ] [2022-05-19 10:20:09,086] 
+[INFO ] [2022-05-19 10:23:31,094] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 10:24:00,692] Close browser
+[INFO ] [2022-05-19 10:24:00,697] OS name = windows 10
+[INFO ] [2022-05-19 10:24:00,697] 
+[INFO ] [2022-05-19 10:28:09,240] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 10:28:21,837] Close browser
+[INFO ] [2022-05-19 10:28:21,837] OS name = windows 10
+[INFO ] [2022-05-19 10:28:21,838] 
+[INFO ] [2022-05-19 10:29:16,298] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 10:29:30,094] Close browser
+[INFO ] [2022-05-19 10:29:30,094] OS name = windows 10
+[INFO ] [2022-05-19 10:29:30,095] 
+[INFO ] [2022-05-19 10:39:06,598] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 10:39:11,285] Close browser
+[INFO ] [2022-05-19 10:39:11,286] OS name = windows 10
+[INFO ] [2022-05-19 10:39:11,286] 
+[INFO ] [2022-05-19 10:54:42,344] Close browser
+[INFO ] [2022-05-19 10:54:42,345] OS name = windows 10
+[INFO ] [2022-05-19 10:54:42,346] 
+[INFO ] [2022-05-19 10:56:17,176] Close browser
+[INFO ] [2022-05-19 10:56:17,177] OS name = windows 10
+[INFO ] [2022-05-19 10:56:17,177] 
+[INFO ] [2022-05-19 10:56:47,078] Close browser
+[INFO ] [2022-05-19 10:56:47,079] OS name = windows 10
+[INFO ] [2022-05-19 10:56:47,079] 
+[INFO ] [2022-05-19 11:07:40,525] Close browser
+[INFO ] [2022-05-19 11:07:40,526] OS name = windows 10
+[INFO ] [2022-05-19 11:07:40,526] 
+[INFO ] [2022-05-19 11:08:10,076] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:08:19,828] Close browser
+[INFO ] [2022-05-19 11:08:19,830] OS name = windows 10
+[INFO ] [2022-05-19 11:08:19,830] 
+[INFO ] [2022-05-19 11:12:43,341] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:12:51,744] Close browser
+[INFO ] [2022-05-19 11:12:51,745] OS name = windows 10
+[INFO ] [2022-05-19 11:12:51,745] 
+[INFO ] [2022-05-19 11:22:03,659] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:22:11,852] Close browser
+[INFO ] [2022-05-19 11:22:11,853] OS name = windows 10
+[INFO ] [2022-05-19 11:22:11,853] 
+[INFO ] [2022-05-19 11:23:20,694] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:23:28,210] Close browser
+[INFO ] [2022-05-19 11:23:28,210] OS name = windows 10
+[INFO ] [2022-05-19 11:23:28,210] 
+[INFO ] [2022-05-19 11:24:14,713] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:24:22,955] Close browser
+[INFO ] [2022-05-19 11:24:22,956] OS name = windows 10
+[INFO ] [2022-05-19 11:24:22,956] 
+[INFO ] [2022-05-19 11:25:15,721] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:25:24,250] Close browser
+[INFO ] [2022-05-19 11:25:24,250] OS name = windows 10
+[INFO ] [2022-05-19 11:25:24,250] 
+[INFO ] [2022-05-19 11:27:36,877] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:27:47,635] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 11:27:47,717] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:27:48,380] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:27:48,518] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:27:48,730] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:27:48,906] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:27:49,087] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:27:49,248] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:27:49,419] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:28:00,333] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:28:00,426]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:28:00,564] Close browser
+[INFO ] [2022-05-19 11:28:00,564] OS name = windows 10
+[INFO ] [2022-05-19 11:28:00,564] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:28:45,249] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:28:54,535] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 11:28:54,624] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:28:55,269] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:28:55,391] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:28:55,565] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:28:55,731] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:28:55,906] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:28:56,087] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:28:56,265] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:29:07,261] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:29:07,343]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:29:07,507] Close browser
+[INFO ] [2022-05-19 11:29:07,508] OS name = windows 10
+[INFO ] [2022-05-19 11:29:07,509] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:29:30,817] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:29:43,164] Browser name and version is: firefox 92.0.1
+[INFO ] [2022-05-19 11:29:43,277] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:29:44,046] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:29:44,353] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:29:44,470] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:29:44,558] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:29:44,669] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:29:44,757] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:29:44,842] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:29:50,727] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:29:50,870]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:29:51,277] Close browser
+[INFO ] [2022-05-19 11:29:51,279] OS name = windows 10
+[INFO ] [2022-05-19 11:29:51,280] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:40:07,348] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:40:14,328] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-19 11:40:14,436] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:40:15,099] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:40:15,188] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:40:15,330] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:40:15,467] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:40:15,609] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:40:15,745] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:40:15,880] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:40:21,768] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:40:21,822]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:40:22,101] Close browser
+[INFO ] [2022-05-19 11:40:22,101] OS name = windows 10
+[INFO ] [2022-05-19 11:40:22,102] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:41:50,461] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:42:03,042] Browser name and version is: firefox 92.0.1
+[INFO ] [2022-05-19 11:42:03,183] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:42:03,909] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:42:04,206] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:42:04,329] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:42:04,445] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:42:04,568] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:42:04,674] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:42:04,763] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:42:10,684] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:42:10,751]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:42:10,927] Close browser
+[INFO ] [2022-05-19 11:42:10,928] OS name = windows 10
+[INFO ] [2022-05-19 11:42:10,928] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:51:36,951] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:51:44,510] Close browser
+[INFO ] [2022-05-19 11:51:44,511] OS name = windows 10
+[INFO ] [2022-05-19 11:51:44,511] 
+[INFO ] [2022-05-19 11:53:18,096] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:53:27,583] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 11:53:27,677] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:53:28,340] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:53:28,468] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:53:28,643] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:53:28,810] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:53:28,996] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:53:29,171] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:53:29,344] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:53:35,241] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:53:35,329]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:53:35,465] Close browser
+[INFO ] [2022-05-19 11:53:35,465] OS name = windows 10
+[INFO ] [2022-05-19 11:53:35,465] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:54:02,132] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:54:14,572] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 11:54:14,666] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:54:15,325] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:54:15,450] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:54:15,646] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:54:15,845] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:54:16,025] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:54:16,203] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:54:16,387] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:54:22,282] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:54:22,392]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:54:22,523] Close browser
+[INFO ] [2022-05-19 11:54:22,523] OS name = windows 10
+[INFO ] [2022-05-19 11:54:22,523] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:54:49,404] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:55:01,292] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 11:55:01,451] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:55:02,159] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:55:02,345] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:55:02,552] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:55:02,787] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:55:03,007] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:55:03,286] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:55:03,514] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:55:11,137] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:55:11,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:55:11,357] Close browser
+[INFO ] [2022-05-19 11:55:11,357] OS name = windows 10
+[INFO ] [2022-05-19 11:55:11,358] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:56:49,951] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:57:00,937] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 11:57:01,056] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:57:01,751] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:57:01,898] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:57:02,122] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:57:02,327] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:57:02,588] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:57:02,809] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:57:03,012] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:57:08,944] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:57:09,035]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:57:09,194] Close browser
+[INFO ] [2022-05-19 11:57:09,195] OS name = windows 10
+[INFO ] [2022-05-19 11:57:09,195] Driver instance name = windows 10
+[INFO ] [2022-05-19 11:57:38,687] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 11:57:53,312] Browser name and version is: firefox 94.0.2
+[INFO ] [2022-05-19 11:57:53,405] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 11:57:53,981] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 11:57:54,283] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 11:57:54,384] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 11:57:54,473] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 11:57:54,574] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 11:57:54,665] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 11:57:54,755] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 11:58:00,601] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 11:58:00,660]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 11:58:00,936] Close browser
+[INFO ] [2022-05-19 11:58:00,937] OS name = windows 10
+[INFO ] [2022-05-19 11:58:00,937] Driver instance name = windows 10
+[INFO ] [2022-05-19 13:29:59,864] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 13:30:11,294] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 13:30:11,442] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 13:30:12,256] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 13:30:12,411] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 13:30:12,629] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 13:30:12,871] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 13:30:13,134] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 13:30:13,383] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 13:30:13,645] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 13:30:19,670] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 13:30:19,791]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 13:30:20,034] Close browser
+[INFO ] [2022-05-19 13:30:20,035] OS name = windows 10
+[INFO ] [2022-05-19 13:30:20,035] Driver instance name = windows 10
+[INFO ] [2022-05-19 13:30:48,708] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 13:30:59,011] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 13:30:59,131] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 13:30:59,883] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 13:31:00,054] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 13:31:00,257] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 13:31:00,474] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 13:31:00,702] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 13:31:00,897] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 13:31:01,089] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 13:31:07,017] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 13:31:07,116]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 13:31:07,260] Close browser
+[INFO ] [2022-05-19 13:31:07,260] OS name = windows 10
+[INFO ] [2022-05-19 13:31:07,260] Driver instance name = windows 10
+[INFO ] [2022-05-19 13:53:39,850] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 13:53:44,614] Close browser
+[INFO ] [2022-05-19 13:53:44,615] OS name = windows 10
+[INFO ] [2022-05-19 13:53:44,615] 
+[INFO ] [2022-05-19 13:55:37,804] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 13:55:40,359] Close browser
+[INFO ] [2022-05-19 13:55:40,360] OS name = windows 10
+[INFO ] [2022-05-19 13:55:40,360] 
+[INFO ] [2022-05-19 13:57:49,678] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 13:57:53,347] Close browser
+[INFO ] [2022-05-19 13:57:53,348] OS name = windows 10
+[INFO ] [2022-05-19 13:57:53,348] 
+[INFO ] [2022-05-19 13:59:15,984] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 13:59:18,322] Close browser
+[INFO ] [2022-05-19 13:59:18,323] OS name = windows 10
+[INFO ] [2022-05-19 13:59:18,323] 
+[INFO ] [2022-05-19 14:00:04,021] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:00:06,603] Close browser
+[INFO ] [2022-05-19 14:00:06,604] OS name = windows 10
+[INFO ] [2022-05-19 14:00:06,604] 
+[INFO ] [2022-05-19 14:06:38,908] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:06:47,070] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 14:06:47,342] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:06:48,238] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:06:48,454] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:06:48,772] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:06:49,228] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:06:49,605] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:06:49,940] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:06:50,222] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:06:56,365] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:06:56,519]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:06:56,861] Close browser
+[INFO ] [2022-05-19 14:06:56,862] OS name = windows 10
+[INFO ] [2022-05-19 14:06:56,862] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:07:24,965] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:07:32,684] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 14:07:32,852] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:07:33,847] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:07:34,087] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:07:34,424] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:07:34,834] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:07:35,270] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:07:35,666] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:07:36,043] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:07:42,170] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:07:42,278]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:07:42,568] Close browser
+[INFO ] [2022-05-19 14:07:42,570] OS name = windows 10
+[INFO ] [2022-05-19 14:07:42,570] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:08:21,445] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:08:34,883] Browser name and version is: firefox 92.0.1
+[INFO ] [2022-05-19 14:08:35,060] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:08:36,271] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:08:36,781] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:08:37,196] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:08:37,486] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:08:37,659] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:08:37,847] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:08:38,061] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:08:44,463] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:08:44,560]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:08:45,043] Close browser
+[INFO ] [2022-05-19 14:08:45,044] OS name = windows 10
+[INFO ] [2022-05-19 14:08:45,044] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:09:25,318] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:09:32,907] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 14:09:33,091] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:09:34,249] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:09:34,549] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:09:35,068] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:09:35,512] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:09:36,012] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:09:36,449] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:09:36,883] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:09:43,253] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:09:43,385]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:09:43,802] Close browser
+[INFO ] [2022-05-19 14:09:43,802] OS name = windows 10
+[INFO ] [2022-05-19 14:09:43,803] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:16:28,539] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:16:37,034] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-19 14:16:37,245] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:16:38,268] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:16:38,383] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:16:38,594] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:16:38,787] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:16:39,032] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:16:39,285] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:16:39,490] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:16:45,729] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:16:45,817]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:16:46,155] Close browser
+[INFO ] [2022-05-19 14:16:46,157] OS name = windows 10
+[INFO ] [2022-05-19 14:16:46,158] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:18:02,765] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:18:09,467] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 14:18:09,707] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:18:10,708] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:18:10,916] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:18:11,204] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:18:11,501] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:18:12,005] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:18:12,291] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:18:12,586] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:18:18,772] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:18:18,979]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:18:19,419] Close browser
+[INFO ] [2022-05-19 14:18:19,419] OS name = windows 10
+[INFO ] [2022-05-19 14:18:19,420] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:38:48,678] Close browser
+[INFO ] [2022-05-19 14:38:48,679] OS name = windows 10
+[INFO ] [2022-05-19 14:38:48,680] 
+[INFO ] [2022-05-19 14:39:21,605] Close browser
+[INFO ] [2022-05-19 14:39:21,605] Close browser
+[INFO ] [2022-05-19 14:39:21,609] OS name = windows 10
+[INFO ] [2022-05-19 14:39:21,608] OS name = windows 10
+[INFO ] [2022-05-19 14:39:21,610] 
+[INFO ] [2022-05-19 14:39:21,611] 
+[INFO ] [2022-05-19 14:39:39,340] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:39:39,340] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:39:45,577] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 14:39:45,779] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:39:46,895] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:39:47,304] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:39:47,893] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:39:48,411] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:39:48,824] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:39:49,159] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:39:49,516] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:39:53,216] Browser name and version is: firefox 92.0.1
+[INFO ] [2022-05-19 14:39:53,221] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:39:54,385] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:39:55,025] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:39:55,316] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:39:55,481] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:39:55,719] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:39:55,871] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:39:55,917] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:39:56,104]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:39:56,195] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:39:56,535] Close browser
+[INFO ] [2022-05-19 14:39:56,535] OS name = windows 10
+[INFO ] [2022-05-19 14:39:56,536] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:40:02,735] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:40:02,819]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:40:02,843] Close browser
+[INFO ] [2022-05-19 14:40:02,844] OS name = windows 10
+[INFO ] [2022-05-19 14:40:02,844] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:41:18,922] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:41:18,922] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:41:24,602] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 14:41:24,803] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:41:26,170] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:41:26,383] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:41:26,706] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:41:27,166] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:41:27,639] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:41:28,415] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:41:29,024] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:41:30,654] Browser name and version is: firefox 92.0.1
+[INFO ] [2022-05-19 14:41:30,660] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:41:31,739] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:41:32,231] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:41:32,465] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:41:32,762] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:41:33,081] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:41:33,434] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:41:33,749] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:41:35,437] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:41:35,687]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:41:36,070] Close browser
+[INFO ] [2022-05-19 14:41:36,079] OS name = windows 10
+[INFO ] [2022-05-19 14:41:36,079] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:41:40,299] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:41:40,466]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:41:40,487] Close browser
+[INFO ] [2022-05-19 14:41:40,487] OS name = windows 10
+[INFO ] [2022-05-19 14:41:40,487] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:50:13,934] Close browser
+[INFO ] [2022-05-19 14:50:13,935] OS name = windows 10
+[INFO ] [2022-05-19 14:50:13,936] 
+[INFO ] [2022-05-19 14:52:22,350] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:52:31,282] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 14:52:31,434] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:52:32,054] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:52:32,187] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:52:32,430] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:52:32,631] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:52:32,847] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:52:33,057] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:52:33,271] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:52:39,144] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:52:39,257]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:52:39,476] Close browser
+[INFO ] [2022-05-19 14:52:39,476] OS name = windows 10
+[INFO ] [2022-05-19 14:52:39,477] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:53:29,191] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:53:29,191] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:53:36,721] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 14:53:36,868] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:53:37,658] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:53:37,951] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:53:38,210] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:53:38,504] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:53:38,784] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:53:39,013] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:53:39,273] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:53:39,574] Browser name and version is: firefox 94.0.2
+[INFO ] [2022-05-19 14:53:39,576] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:53:40,405] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:53:40,800] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:53:40,893] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:53:40,980] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:53:41,081] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:53:41,194] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:53:41,317] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:53:45,399] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:53:45,488]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:53:45,702] Close browser
+[INFO ] [2022-05-19 14:53:45,702] OS name = windows 10
+[INFO ] [2022-05-19 14:53:45,703] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:53:47,167] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:53:47,234]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:53:47,257] Close browser
+[INFO ] [2022-05-19 14:53:47,257] OS name = windows 10
+[INFO ] [2022-05-19 14:53:47,257] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:54:18,967] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:54:18,967] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:54:26,449] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 14:54:26,568] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:54:27,270] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:54:27,444] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:54:27,701] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:54:27,912] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:54:28,163] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:54:28,380] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:54:28,621] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:54:34,637] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:54:34,740]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:54:34,943] Close browser
+[INFO ] [2022-05-19 14:54:34,943] OS name = windows 10
+[INFO ] [2022-05-19 14:54:34,944] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:54:41,457] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 14:54:41,460] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 14:54:42,139] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 14:54:42,285] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 14:54:42,506] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 14:54:42,747] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 14:54:42,970] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 14:54:43,179] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 14:54:43,385] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 14:54:49,397] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 14:54:49,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 14:54:49,510] Close browser
+[INFO ] [2022-05-19 14:54:49,510] OS name = windows 10
+[INFO ] [2022-05-19 14:54:49,510] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:55:17,165] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:55:17,165] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 14:55:23,500] Close browser
+[INFO ] [2022-05-19 14:55:23,500] OS name = windows 10
+[INFO ] [2022-05-19 14:55:23,501] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:55:23,516] Close browser
+[INFO ] [2022-05-19 14:55:23,517] OS name = windows 10
+[INFO ] [2022-05-19 14:55:23,517] Driver instance name = windows 10
+[INFO ] [2022-05-19 14:55:23,546] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'VINHNNB', ip: '172.22.192.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: /tmp/.com.google.Chrome.pd4q6a}, goog:chromeOptions: {debuggerAddress: localhost:35001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: f68619fd4989f45888c538187ca...}
+Session ID: f68619fd4989f45888c538187ca5f9bb
+[INFO ] [2022-05-19 14:55:23,550] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'VINHNNB', ip: '172.22.192.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: /tmp/.com.google.Chrome.7EKogG}, goog:chromeOptions: {debuggerAddress: localhost:45675}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: dba4fe00eb84aff22f2c28a7144...}
+Session ID: dba4fe00eb84aff22f2c28a7144704ab
+[INFO ] [2022-05-19 15:00:39,429] Close browser
+[INFO ] [2022-05-19 15:00:39,431] OS name = windows 10
+[INFO ] [2022-05-19 15:00:39,432] 
+[INFO ] [2022-05-19 15:01:22,206] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:01:28,950] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-19 15:01:29,173] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 15:01:29,997] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 15:01:30,120] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 15:01:30,310] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 15:01:30,480] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 15:01:30,666] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 15:01:30,842] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 15:01:31,009] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 15:01:37,062] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 15:01:37,135]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 15:01:37,338] Close browser
+[INFO ] [2022-05-19 15:01:37,338] OS name = windows 10
+[INFO ] [2022-05-19 15:01:37,339] Driver instance name = windows 10
+[INFO ] [2022-05-19 15:14:44,185] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:14:50,122] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 15:14:50,277] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 15:14:51,296] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 15:14:51,618] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 15:14:51,979] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 15:14:52,320] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 15:14:52,765] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 15:14:53,096] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 15:14:53,501] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 15:14:59,715] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 15:14:59,925]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 15:15:00,275] Close browser
+[INFO ] [2022-05-19 15:15:00,275] OS name = windows 10
+[INFO ] [2022-05-19 15:15:00,275] Driver instance name = windows 10
+[INFO ] [2022-05-19 15:34:32,110] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:34:38,311] Close browser
+[INFO ] [2022-05-19 15:34:38,312] OS name = windows 10
+[INFO ] [2022-05-19 15:34:38,312] 
+[INFO ] [2022-05-19 15:40:45,897] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:40:49,292] Close browser
+[INFO ] [2022-05-19 15:40:49,292] OS name = windows 10
+[INFO ] [2022-05-19 15:40:49,293] 
+[INFO ] [2022-05-19 15:41:59,502] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:42:02,534] Close browser
+[INFO ] [2022-05-19 15:42:02,534] OS name = windows 10
+[INFO ] [2022-05-19 15:42:02,535] 
+[INFO ] [2022-05-19 15:42:54,085] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:43:00,192] Close browser
+[INFO ] [2022-05-19 15:43:00,193] OS name = windows 10
+[INFO ] [2022-05-19 15:43:00,193] 
+[INFO ] [2022-05-19 15:43:40,845] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:43:46,243] Close browser
+[INFO ] [2022-05-19 15:43:46,244] OS name = windows 10
+[INFO ] [2022-05-19 15:43:46,244] 
+[INFO ] [2022-05-19 15:44:28,991] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:44:32,357] Close browser
+[INFO ] [2022-05-19 15:44:32,358] OS name = windows 10
+[INFO ] [2022-05-19 15:44:32,358] 
+[INFO ] [2022-05-19 15:46:01,268] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:46:06,167] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 15:46:06,278] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 15:46:06,984] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 15:46:07,130] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 15:46:07,459] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 15:46:07,720] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 15:46:07,976] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 15:46:08,237] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 15:46:08,500] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 15:46:14,549] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 15:46:14,651]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 15:46:14,814] Close browser
+[INFO ] [2022-05-19 15:46:14,814] OS name = windows 10
+[INFO ] [2022-05-19 15:46:14,815] Driver instance name = windows 10
+[INFO ] [2022-05-19 15:46:25,004] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:46:28,834] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 15:46:29,012] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 15:46:29,943] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 15:46:30,201] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 15:46:30,417] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 15:46:30,649] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 15:46:30,866] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 15:46:31,089] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 15:46:31,292] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 15:46:37,193] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 15:46:37,291]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 15:46:37,455] Close browser
+[INFO ] [2022-05-19 15:46:37,455] OS name = windows 10
+[INFO ] [2022-05-19 15:46:37,455] Driver instance name = windows 10
+[INFO ] [2022-05-19 15:46:56,748] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:47:00,674] Close browser
+[INFO ] [2022-05-19 15:47:00,675] OS name = windows 10
+[INFO ] [2022-05-19 15:47:00,675] 
+[INFO ] [2022-05-19 15:47:11,078] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:47:15,241] Close browser
+[INFO ] [2022-05-19 15:47:15,242] OS name = windows 10
+[INFO ] [2022-05-19 15:47:15,242] 
+[INFO ] [2022-05-19 15:47:38,057] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:47:46,506] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-19 15:47:46,652] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 15:47:47,317] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 15:47:47,498] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 15:47:47,705] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 15:47:47,910] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 15:47:48,132] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 15:47:48,370] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 15:47:48,610] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 15:47:54,566] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 15:47:54,664]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 15:47:54,812] Close browser
+[INFO ] [2022-05-19 15:47:54,813] OS name = windows 10
+[INFO ] [2022-05-19 15:47:54,813] Driver instance name = windows 10
+[INFO ] [2022-05-19 15:48:21,775] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 15:48:29,272] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-19 15:48:29,428] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 15:48:30,219] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 15:48:30,336] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 15:48:30,500] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 15:48:30,663] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 15:48:30,811] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 15:48:30,964] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 15:48:31,113] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 15:48:37,106] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 15:48:37,172]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 15:48:37,549] Close browser
+[INFO ] [2022-05-19 15:48:37,549] OS name = windows 10
+[INFO ] [2022-05-19 15:48:37,549] Driver instance name = windows 10
+[INFO ] [2022-05-19 16:13:46,206] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:13:50,645] Close browser
+[INFO ] [2022-05-19 16:13:50,645] OS name = windows 10
+[INFO ] [2022-05-19 16:13:50,645] 
+[INFO ] [2022-05-19 16:15:45,103] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:15:48,525] Close browser
+[INFO ] [2022-05-19 16:15:48,525] OS name = windows 10
+[INFO ] [2022-05-19 16:15:48,525] 
+[INFO ] [2022-05-19 16:18:10,326] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:18:16,669] Close browser
+[INFO ] [2022-05-19 16:18:16,670] OS name = windows 10
+[INFO ] [2022-05-19 16:18:16,670] 
+[INFO ] [2022-05-19 16:18:52,263] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:18:56,335] Close browser
+[INFO ] [2022-05-19 16:18:56,335] OS name = windows 10
+[INFO ] [2022-05-19 16:18:56,335] 
+[INFO ] [2022-05-19 16:19:12,902] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:19:24,162] Browser name and version is: firefox 88.0.1
+[INFO ] [2022-05-19 16:19:24,543] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 16:19:25,481] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 16:19:26,021] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 16:19:26,252] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 16:19:26,467] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 16:19:26,678] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 16:19:26,947] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 16:19:27,203] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 16:19:33,706] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 16:19:33,866]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 16:19:34,192] Close browser
+[INFO ] [2022-05-19 16:19:34,197] OS name = windows 10
+[INFO ] [2022-05-19 16:19:34,197] Driver instance name = windows 10
+[INFO ] [2022-05-19 16:24:17,125] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:24:21,264] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-19 16:24:21,430] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 16:24:22,390] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 16:24:22,756] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 16:24:23,080] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 16:24:23,510] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 16:24:23,933] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 16:24:24,199] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 16:24:24,478] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 16:24:30,904] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 16:24:31,013]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 16:24:31,191] Close browser
+[INFO ] [2022-05-19 16:24:31,192] OS name = windows 10
+[INFO ] [2022-05-19 16:24:31,192] Driver instance name = windows 10
+[INFO ] [2022-05-19 16:24:44,392] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:24:50,462] Close browser
+[INFO ] [2022-05-19 16:24:50,462] OS name = windows 10
+[INFO ] [2022-05-19 16:24:50,462] 
+[INFO ] [2022-05-19 16:25:07,660] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-19 16:25:17,712] Browser name and version is: firefox 92.0.1
+[INFO ] [2022-05-19 16:25:17,932] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-19 16:25:19,550] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-19 16:25:20,188] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-19 16:25:20,566] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-19 16:25:21,253] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-19 16:25:21,582] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-19 16:25:21,982] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-19 16:25:22,234] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-19 16:25:28,265] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-19 16:25:28,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-19 16:25:28,549] Close browser
+[INFO ] [2022-05-19 16:25:28,549] OS name = windows 10
+[INFO ] [2022-05-19 16:25:28,550] Driver instance name = windows 10
+[INFO ] [2022-05-20 09:31:19,591] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-20 09:31:26,961] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-20 09:31:27,120] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-20 09:31:27,847] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-20 09:31:28,019] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-20 09:31:28,266] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-20 09:31:28,516] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-20 09:31:28,799] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-20 09:31:29,016] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-20 09:31:29,220] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-20 09:31:35,514] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-20 09:31:35,619]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-20 09:31:35,819] Close browser
+[INFO ] [2022-05-20 09:31:35,820] OS name = windows 10
+[INFO ] [2022-05-20 09:31:35,821] Driver instance name = windows 10
+[INFO ] [2022-05-20 09:31:46,072] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-20 09:31:51,204] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-20 09:31:51,336] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-20 09:31:52,025] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-20 09:31:52,191] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-20 09:31:52,435] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-20 09:31:52,641] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-20 09:31:52,874] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-20 09:31:53,089] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-20 09:31:53,298] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-20 09:31:59,617] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-20 09:31:59,719]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-20 09:32:00,154] Close browser
+[INFO ] [2022-05-20 09:32:00,154] OS name = windows 10
+[INFO ] [2022-05-20 09:32:00,154] Driver instance name = windows 10
+[INFO ] [2022-05-20 09:40:38,493] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-20 09:40:46,945] Browser name and version is: chrome 96.0.4664.45
+[INFO ] [2022-05-20 09:40:47,110] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-20 09:40:47,764] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-20 09:40:47,945] TC_01_Register_With_Valid_User_Name_Password - Step 3: input 'first name' textbox
+[INFO ] [2022-05-20 09:40:48,194] TC_01_Register_With_Valid_User_Name_Password - Step 4: input 'last name' textbox 
+[INFO ] [2022-05-20 09:40:48,422] TC_01_Register_With_Valid_User_Name_Password - Step 5: input 'email' textbox 
+[INFO ] [2022-05-20 09:40:48,667] TC_01_Register_With_Valid_User_Name_Password - Step 6: input 'password' textbox 
+[INFO ] [2022-05-20 09:40:48,901] TC_01_Register_With_Valid_User_Name_Password - Step 7: input 'confirm password' textbox 
+[INFO ] [2022-05-20 09:40:49,135] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-20 09:40:55,109] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-20 09:40:55,211]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-20 09:40:55,432] Close browser
+[INFO ] [2022-05-20 09:40:55,433] OS name = windows 10
+[INFO ] [2022-05-20 09:40:55,433] Driver instance name = windows 10
+[INFO ] [2022-05-20 10:50:48,947] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-20 10:50:49,562] Close browser
+[INFO ] [2022-05-20 10:50:49,564] OS name = windows 10
+[INFO ] [2022-05-20 10:50:49,564] 
+[INFO ] [2022-05-20 11:19:20,102] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-20 11:19:34,605] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-20 11:19:34,869] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-20 11:19:36,241] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-20 11:19:36,393] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+[INFO ] [2022-05-20 11:19:36,606] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+[INFO ] [2022-05-20 11:19:37,031] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+[INFO ] [2022-05-20 11:19:37,351] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+[INFO ] [2022-05-20 11:19:37,582] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+[INFO ] [2022-05-20 11:19:37,822] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-20 11:19:38,996] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-20 11:19:39,069]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-20 11:19:39,297] Close browser
+[INFO ] [2022-05-20 11:19:39,297] OS name = windows 10
+[INFO ] [2022-05-20 11:19:39,297] Driver instance name = windows 10
+[INFO ] [2022-05-20 11:50:55,183] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-20 11:51:05,967] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-20 11:51:06,246] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-20 11:51:07,514] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-20 11:51:07,767] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+[INFO ] [2022-05-20 11:51:08,198] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+[INFO ] [2022-05-20 11:51:08,543] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+[INFO ] [2022-05-20 11:51:08,934] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+[INFO ] [2022-05-20 11:51:09,258] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+[INFO ] [2022-05-20 11:51:09,628] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-20 11:51:11,052] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-20 11:51:11,221]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-20 11:51:11,458] Close browser
+[INFO ] [2022-05-20 11:51:11,458] OS name = windows 10
+[INFO ] [2022-05-20 11:51:11,459] Driver instance name = windows 10
+[INFO ] [2022-05-23 10:08:07,509] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-23 10:08:18,086] Browser name and version is: chrome 94.0.4606.61
+[INFO ] [2022-05-23 10:08:18,426] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-23 10:08:19,892] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-23 10:08:20,213] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+[INFO ] [2022-05-23 10:08:20,739] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+[INFO ] [2022-05-23 10:08:21,212] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+[INFO ] [2022-05-23 10:08:21,675] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+[INFO ] [2022-05-23 10:08:22,379] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+[INFO ] [2022-05-23 10:08:22,810] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-23 10:08:24,335] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-23 10:08:24,608]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-23 10:08:24,938] Close browser
+[INFO ] [2022-05-23 10:08:24,938] OS name = windows 10
+[INFO ] [2022-05-23 10:08:24,938] Driver instance name = windows 10
+[INFO ] [2022-05-23 11:06:36,694] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
+[INFO ] [2022-05-23 11:06:46,449] Browser name and version is: chrome 101.0.4951.67
+[INFO ] [2022-05-23 11:06:46,674] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+[INFO ] [2022-05-23 11:06:47,649] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+[INFO ] [2022-05-23 11:06:47,939] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+[INFO ] [2022-05-23 11:06:48,120] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+[INFO ] [2022-05-23 11:06:48,416] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+[INFO ] [2022-05-23 11:06:48,734] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+[INFO ] [2022-05-23 11:06:48,867] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+[INFO ] [2022-05-23 11:06:49,086] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+[INFO ] [2022-05-23 11:06:50,228] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+[INFO ] [2022-05-23 11:06:50,294]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-05-23 11:06:50,689] Close browser
+[INFO ] [2022-05-23 11:06:50,689] OS name = windows 10
+[INFO ] [2022-05-23 11:06:50,689] Driver instance name = windows 10

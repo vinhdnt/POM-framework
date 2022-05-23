@@ -1,0 +1,14 @@
+pageObjects\demo\nopcommerce\com\HomePageObject.class
+commons\BasePage$1.class
+commons\PageGeneratorManager.class
+commons\BaseTest$BROWSER.class
+commons\MethodListener.class
+pageObjects\demo\nopcommerce\com\RegisterPageObject.class
+commons\BaseTest.class
+commons\TestNGAppender.class
+commons\BasePage.class
+commons\BasePage$3.class
+pageUIs\demo\nopcommerce\com\RegisterPageUI.class
+pageUIs\demo\nopcommerce\com\HomePageUI.class
+commons\BasePage$2.class
+commons\VerificationFailures.class
