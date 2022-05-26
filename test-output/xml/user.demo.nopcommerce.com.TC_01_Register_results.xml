@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Run on local chrome"
+<testsuite name="Run on remote local remote_chrome"
            tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="3.780">
+           time="19.371">
   <properties />
   
   
-            <testcase name="TC_01_Register_With_Valid_Data" time="3.780" classname="user.demo.nopcommerce.com.TC_01_Register" />
+            <testcase name="TC_01_Register_With_Valid_Data" time="19.371" classname="user.demo.nopcommerce.com.TC_01_Register" />
       
 </testsuite>

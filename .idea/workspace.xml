@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0743b0-b63f-41a7-be4d-4015b0657ebe" name="Default Changelist" comment="" />
+    <list default="true" id="6a0743b0-b63f-41a7-be4d-4015b0657ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/local_vtndoan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserNotSupportedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/ChromeDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/FirefoxDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitorLog/DeeAuto.log" beforeDir="false" afterPath="$PROJECT_DIR$/monitorLog/DeeAuto.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitorLog/DeeAuto.txt" beforeDir="false" afterPath="$PROJECT_DIR$/monitorLog/DeeAuto.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/user/demo/nopcommerce/com/TC_01_Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/demo/nopcommerce/com/TC_01_Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/runTestCasesLocalRemote.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/runTestCasesLocalRemote.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Run Test Case Class/run on remote VM remote_chrome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Run Test Case Class/run on remote VM remote_chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Run Test Case Class/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/suites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-user.demo.nopcommerce.com.TC_01_Register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-user.demo.nopcommerce.com.TC_01_Register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/run on remote VM remote_chrome.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Run Test Case Class/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/xml/user.demo.nopcommerce.com.TC_01_Register_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/xml/user.demo.nopcommerce.com.TC_01_Register_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runTestCasesLocalRemote.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runTestCasesLocalRemote.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/user/demo/nopcommerce/com/TC_01_Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/user/demo/nopcommerce/com/TC_01_Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/output.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/user.demo.nopcommerce.com.TC_01_Register_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/user.demo.nopcommerce.com.TC_01_Register_results.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +64,105 @@
     <option name="myElementSize" value="251" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/user/demo/nopcommerce/com/TC_01_Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/HomePageUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/RegisterPageUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/commons/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="173" column="19" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3655#3656#0" expanded="true" />
+                <element signature="e#3727#3728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/factoryBrowser/FirefoxDriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/runTestCasesLocalRemote.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/commons/MethodListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="41" column="48" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,7 +174,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/POM-framework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,12 +194,16 @@
         <option value="$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/RegisterPageUI.java" />
         <option value="$PROJECT_DIR$/src/main/java/commons/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/runTestCasesClass.xml" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/src/test/java/user/demo/nopcommerce/com/TC_01_Register.java" />
-        <option value="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/runTestCasesLocalBrowser.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/runTestCasesVMRemote.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryBrowser/FirefoxDriverManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryBrowser/ChromeDriverManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserNotSupportedException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/user/demo/nopcommerce/com/TC_01_Register.java" />
+        <option value="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/runTestCasesLocalRemote.xml" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
@@ -72,24 +215,97 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
+    <option name="x" value="-55" />
+    <option name="y" value="385" />
     <option name="width" value="2580" />
     <option name="height" value="1410" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
               <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation-framework-pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-framework-pom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,7 +318,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mvn-dee-auto" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -125,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalBrowser.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml">
     <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation-framework-pom" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runTestCasesClass.xml" />
@@ -185,8 +401,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalBrowser.xml" />
         <item itemvalue="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" />
+        <item itemvalue="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalBrowser.xml" />
         <item itemvalue="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesVMRemote.xml" />
         <item itemvalue="TestNG.C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesClass.xml" />
       </list>
@@ -208,62 +424,67 @@
       <workItem from="1652927279862" duration="20581000" />
       <workItem from="1653013627582" duration="3995000" />
       <workItem from="1653274920342" duration="1833000" />
+      <workItem from="1653278697279" duration="12518000" />
+      <workItem from="1653360427106" duration="9320000" />
+      <workItem from="1653446513746" duration="6452000" />
+      <workItem from="1653534298727" duration="4465000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.19 at 16h 24m 32s.xml">
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.23 at 16h 49m 36s.xml">
       <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.19 at 16h 24m 51s.xml">
-      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.19 at 16h 25m 30s.xml">
-      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.20 at 09h 31m 36s.xml">
-      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.20 at 09h 32m 01s.xml">
-      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesVMRemote_xml - 2022.05.20 at 09h 40m 57s.xml">
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesVMRemote_xml - 2022.05.23 at 17h 39m 07s.xml">
       <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesVMRemote.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalBrowser_xml - 2022.05.20 at 10h 50m 50s.xml">
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesVMRemote_xml - 2022.05.23 at 17h 40m 01s.xml">
+      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesVMRemote.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesVMRemote_xml - 2022.05.23 at 17h 40m 51s.xml">
+      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesVMRemote.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesVMRemote_xml - 2022.05.23 at 17h 41m 45s.xml">
+      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesVMRemote.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalBrowser_xml - 2022.05.24 at 16h 53m 43s.xml">
       <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalBrowser.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalBrowser_xml - 2022.05.20 at 11h 19m 41s.xml">
-      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalBrowser.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.20 at 11h 51m 12s.xml">
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.25 at 11h 26m 51s.xml">
       <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.23 at 10h 08m 26s.xml">
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.25 at 14h 06m 04s.xml">
+      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.26 at 13h 40m 05s.xml">
+      <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_local_vtndoan_IdeaProjects_automation-framework-pom_src_test_resources_runTestCasesLocalRemote_xml - 2022.05.26 at 16h 23m 55s.xml">
       <configuration name="C:/Users/local_vtndoan/IdeaProjects/automation-framework-pom/src/test/resources/runTestCasesLocalRemote.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46200000" />
+    <option name="totallyTimeSpent" value="78955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17982018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1878122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4114688" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3752515" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.43762577" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4995005" visible="true" weight="0.34607646" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004995" side_tool="true" weight="0.38933602" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -302,6 +523,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/POM-framework" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/commons/VerificationFailures.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -310,13 +537,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/commons/MethodListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -368,20 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/HomePageUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/RegisterPageUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/commons/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1316">
@@ -394,10 +600,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/ITestNGListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/runTestCasesVMRemote.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/IInvokedMethodListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/runTestCasesLocalBrowser.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryBrowser/FirefoxDriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryBrowser/ChromeDriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserNotSupportedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/commons/MethodListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/HomePageUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageUIs/demo/nopcommerce/com/RegisterPageUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/user/demo/nopcommerce/com/TC_01_Register.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+        <state relative-caret-position="352">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -406,46 +702,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/commons/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="1976">
+          <caret line="173" column="19" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3655#3656#0" expanded="true" />
+            <element signature="e#3727#3728#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/runTestCasesLocalBrowser.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/runTestCasesVMRemote.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/runTestCasesLocalRemote.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="391">
+          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
         </state>
       </provider>
     </entry>

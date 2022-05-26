@@ -33,6 +33,8 @@ public class TC_01_Register extends BaseTest {
         log.info("TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field ");
         registerPage = homePage.clickOnRegisterField();
 
+        sleepInSecond(15);
+
         log.info("TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender");
         registerPage.selectGender("M");
 

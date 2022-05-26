@@ -9,113 +9,34 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Run Test Case Class</th></tr>
-<tr><td><a href="#t0">run on remote VM remote_chrome</a></td><td class="num">0</td><td class="num attn">1</td><td class="num">0</td><td class="num">4,008</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Run on remote local remote_chrome</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">29,570</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t1">Run on remote local remote_ff</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">34,487</td><td></td><td></td></tr>
+<tr><th>Total</th><th class="num">2</th><th class="num">0</th><th class="num">0</th><th class="num">64,057</th><th colspan="2"></th></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Run Test Case Class</th></tr></tbody><tbody id="t0"><tr><th colspan="4">run on remote VM remote_chrome &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="2">user.demo.nopcommerce.com.TC_01_Register</td><td><a href="#m0">afterClass</a></td><td rowspan="1">1652950020673</td><td rowspan="1">2</td></tr><tr class="failedeven"><td><a href="#m1">initBrowser</a></td><td rowspan="1">1652950016696</td><td rowspan="1">3699</td></tr><tr><th colspan="4">run on remote VM remote_chrome &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">user.demo.nopcommerce.com.TC_01_Register</td><td><a href="#m2">TC_01_Register_With_Valid_Data</a></td><td rowspan="1">1652950020624</td><td rowspan="1">0</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Run Test Case Class</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Run on remote local remote_chrome &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">user.demo.nopcommerce.com.TC_01_Register</td><td><a href="#m0">TC_01_Register_With_Valid_Data</a></td><td rowspan="1">1653464414070</td><td rowspan="1">20308</td></tr></tbody>
+<tbody id="t1"><tr><th colspan="4">Run on remote local remote_ff &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">user.demo.nopcommerce.com.TC_01_Register</td><td><a href="#m1">TC_01_Register_With_Valid_Data</a></td><td rowspan="1">1653464419385</td><td rowspan="1">19710</td></tr></tbody>
 </table>
-<h2>run on remote VM remote_chrome</h2><h3 id="m0">user.demo.nopcommerce.com.TC_01_Register#afterClass</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[INFO ] [2022-05-19 15:47:00,674] Close browser
-<br/>[INFO ] [2022-05-19 15:47:00,675] OS name = windows 10
-<br/>[INFO ] [2022-05-19 15:47:00,675] 
-</div></td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.IllegalArgumentException: Empty command
-	at java.base/java.lang.Runtime.exec(Runtime.java:407)
-	at java.base/java.lang.Runtime.exec(Runtime.java:310)
-	at commons.BaseTest.cleanBrowserAndDriver(BaseTest.java:270)
-	at user.demo.nopcommerce.com.TC_01_Register.afterClass(TC_01_Register.java:68)
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">user.demo.nopcommerce.com.TC_01_Register#initBrowser</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr><tr class="param stripe"><td>remote_chrome</td><td>https://demo.nopcommerce.com/</td><td>mgmdaddeevm01/</td><td>4444</td></tr><tr><th colspan="4">Messages</th></tr><tr><td colspan="4"><div class="messages">[INFO ] [2022-05-19 15:46:56,748] Pre-condition - Step 01:Init browser and go to Homepage to: https://demo.nopcommerce.com/
-</div></td></tr><tr><th colspan="4">Exception</th></tr><tr><td colspan="4"><div class="stacktrace">org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;VINHNNB&apos;, ip: &apos;172.22.192.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.11&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:573)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
-	at commons.BaseTest.getBrowserDriver(BaseTest.java:115)
-	at user.demo.nopcommerce.com.TC_01_Register.initBrowser(TC_01_Register.java:21)
-Caused by: java.net.ConnectException: Failed to connect to mgmdaddeevm01/10.55.6.28:80
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-	at okhttp3.RealCall.execute(RealCall.java:77)
-	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	... 35 more
-Caused by: java.net.ConnectException: Connection refused: connect
-	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
-	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
-	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
-	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
-	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.base/java.net.Socket.connect(Socket.java:608)
-	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-	... 57 more
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">user.demo.nopcommerce.com.TC_01_Register#TC_01_Register_With_Valid_Data</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;VINHNNB&apos;, ip: &apos;172.22.192.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.11&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:573)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
-	at commons.BaseTest.getBrowserDriver(BaseTest.java:115)
-	at user.demo.nopcommerce.com.TC_01_Register.initBrowser(TC_01_Register.java:21)
-Caused by: java.net.ConnectException: Failed to connect to mgmdaddeevm01/10.55.6.28:80
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-	at okhttp3.RealCall.execute(RealCall.java:77)
-	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	... 35 more
-Caused by: java.net.ConnectException: Connection refused: connect
-	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
-	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
-	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
-	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
-	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.base/java.net.Socket.connect(Socket.java:608)
-	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-	... 57 more
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Run on remote local remote_chrome</h2><h3 id="m0">user.demo.nopcommerce.com.TC_01_Register#TC_01_Register_With_Valid_Data</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[INFO ] [2022-05-25 14:40:14,178] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+<br/>[INFO ] [2022-05-25 14:40:31,249] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+<br/>[INFO ] [2022-05-25 14:40:31,507] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+<br/>[INFO ] [2022-05-25 14:40:31,824] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+<br/>[INFO ] [2022-05-25 14:40:32,146] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+<br/>[INFO ] [2022-05-25 14:40:32,422] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+<br/>[INFO ] [2022-05-25 14:40:32,667] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+<br/>[INFO ] [2022-05-25 14:40:32,936] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+<br/>[INFO ] [2022-05-25 14:40:34,201] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+<br/>[INFO ] [2022-05-25 14:40:34,378]  -------------------------- PASSED -------------------------- 
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Run on remote local remote_ff</h2><h3 id="m1">user.demo.nopcommerce.com.TC_01_Register#TC_01_Register_With_Valid_Data</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[INFO ] [2022-05-25 14:40:19,388] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+<br/>[INFO ] [2022-05-25 14:40:36,257] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+<br/>[INFO ] [2022-05-25 14:40:36,586] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+<br/>[INFO ] [2022-05-25 14:40:36,787] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+<br/>[INFO ] [2022-05-25 14:40:36,986] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+<br/>[INFO ] [2022-05-25 14:40:37,285] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+<br/>[INFO ] [2022-05-25 14:40:37,474] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+<br/>[INFO ] [2022-05-25 14:40:37,714] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+<br/>[INFO ] [2022-05-25 14:40:38,824] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+<br/>[INFO ] [2022-05-25 14:40:39,095]  -------------------------- PASSED -------------------------- 
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

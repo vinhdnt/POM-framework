@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Run_Test_Case_Class" class="navigator-link">
-              <span class="suite-name border-skipped">Run Test Case Class</span>
+              <span class="suite-name border-passed">Run Test Case Class</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -49,12 +49,12 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Run_Test_Case_Class" class="navigator-link ">
-                    <span>C:\Users\local_vtndoan\IdeaProjects\automation-framework-pom\src\test\resources\runTestCasesVMRemote.xml</span>
+                    <span>C:\Users\local_vtndoan\IdeaProjects\automation-framework-pom\src\test\resources\runTestCasesLocalRemote.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
                   <a href="#" panel-name="testlist-Run_Test_Case_Class" class="navigator-link ">
-                    <span class="test-stats">1 test</span>
+                    <span class="test-stats">2 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,21 +91,26 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,  1 skipped,  </span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title skipped">Skipped methods</span>
-                    <span class="show-or-hide-methods skipped">
-                      <a href="#" panel-name="suite-Run_Test_Case_Class" class="hide-methods skipped suite-Run_Test_Case_Class"> (hide)</a> <!-- hide-methods skipped suite-Run_Test_Case_Class -->
-                      <a href="#" panel-name="suite-Run_Test_Case_Class" class="show-methods skipped suite-Run_Test_Case_Class"> (show)</a> <!-- show-methods skipped suite-Run_Test_Case_Class -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Run_Test_Case_Class" class="hide-methods passed suite-Run_Test_Case_Class"> (hide)</a> <!-- hide-methods passed suite-Run_Test_Case_Class -->
+                      <a href="#" panel-name="suite-Run_Test_Case_Class" class="show-methods passed suite-Run_Test_Case_Class"> (show)</a> <!-- show-methods passed suite-Run_Test_Case_Class -->
                     </span>
-                    <div class="method-list-content skipped suite-Run_Test_Case_Class">
+                    <div class="method-list-content passed suite-Run_Test_Case_Class">
                       <span>
-                        <img src="skipped.png" width="3%"/>
+                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Run_Test_Case_Class" title="user.demo.nopcommerce.com.TC_01_Register" class="method navigator-link" hash-for-method="TC_01_Register_With_Valid_Data">TC_01_Register_With_Valid_Data</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content skipped suite-Run_Test_Case_Class -->
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Run_Test_Case_Class" title="user.demo.nopcommerce.com.TC_01_Register" class="method navigator-link" hash-for-method="TC_01_Register_With_Valid_Data">TC_01_Register_With_Valid_Data</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Run_Test_Case_Class -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -117,9 +122,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Run_Test_Case_Class" class="panel Run_Test_Case_Class">
-          <div class="suite-Run_Test_Case_Class-class-skipped">
+          <div class="suite-Run_Test_Case_Class-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="skipped.png"/>
+              <img src="passed.png"/>
               <span class="class-name">user.demo.nopcommerce.com.TC_01_Register</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -128,82 +133,50 @@
                   <a name="TC_01_Register_With_Valid_Data">
                   </a> <!-- TC_01_Register_With_Valid_Data -->
                   <span class="method-name">TC_01_Register_With_Valid_Data</span>
-                  <div class="stack-trace">org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;VINHNNB&apos;, ip: &apos;172.22.192.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.11&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:573)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
-	at commons.BaseTest.getBrowserDriver(BaseTest.java:115)
-	at user.demo.nopcommerce.com.TC_01_Register.initBrowser(TC_01_Register.java:21)
-Caused by: java.net.ConnectException: Failed to connect to mgmdaddeevm01/10.55.6.28:80
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-	at okhttp3.RealCall.execute(RealCall.java:77)
-	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	... 35 more
-Caused by: java.net.ConnectException: Connection refused: connect
-	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
-	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
-	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
-	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
-	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.base/java.net.Socket.connect(Socket.java:608)
-	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-	... 57 more
-... Removed 30 stack frames
-</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TC_01_Register_With_Valid_Data">
+                  </a> <!-- TC_01_Register_With_Valid_Data -->
+                  <span class="method-name">TC_01_Register_With_Valid_Data</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Run_Test_Case_Class-class-skipped -->
+          </div> <!-- suite-Run_Test_Case_Class-class-passed -->
         </div> <!-- panel Run_Test_Case_Class -->
         <div panel-name="test-xml-Run_Test_Case_Class" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\local_vtndoan\IdeaProjects\automation-framework-pom\src\test\resources\runTestCasesVMRemote.xml</span>
+            <span class="header-content">C:\Users\local_vtndoan\IdeaProjects\automation-framework-pom\src\test\resources\runTestCasesLocalRemote.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite thread-count=&quot;1&quot; name=&quot;Run Test Case Class&quot; verbose=&quot;0&quot;&gt;
+&lt;suite thread-count=&quot;2&quot; parallel=&quot;tests&quot; name=&quot;Run Test Case Class&quot; verbose=&quot;0&quot;&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;org.uncommons.reportng.HTMLReporter&quot;/&gt;
     &lt;listener class-name=&quot;org.uncommons.reportng.JUnitXMLReporter&quot;/&gt;
     &lt;listener class-name=&quot;commons.MethodListener&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test thread-count=&quot;1&quot; name=&quot;run on remote VM remote_chrome&quot; verbose=&quot;0&quot;&gt;
+  &lt;test thread-count=&quot;2&quot; parallel=&quot;tests&quot; name=&quot;Run on remote local remote_chrome&quot; verbose=&quot;0&quot;&gt;
     &lt;parameter name=&quot;port&quot; value=&quot;4444&quot;/&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;remote_chrome&quot;/&gt;
-    &lt;parameter name=&quot;ipAddress&quot; value=&quot;mgmdaddeevm01/&quot;/&gt;
+    &lt;parameter name=&quot;ipAddress&quot; value=&quot;localhost&quot;/&gt;
     &lt;parameter name=&quot;url&quot; value=&quot;https://demo.nopcommerce.com/&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;user.demo.nopcommerce.com.TC_01_Register&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- run on remote VM remote_chrome --&gt;
+  &lt;/test&gt; &lt;!-- Run on remote local remote_chrome --&gt;
+  &lt;test thread-count=&quot;2&quot; parallel=&quot;tests&quot; name=&quot;Run on remote local remote_ff&quot; verbose=&quot;0&quot;&gt;
+    &lt;parameter name=&quot;port&quot; value=&quot;4444&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;remote_firefox&quot;/&gt;
+    &lt;parameter name=&quot;ipAddress&quot; value=&quot;localhost&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;https://demo.nopcommerce.com/&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;user.demo.nopcommerce.com.TC_01_Register&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Run on remote local remote_ff --&gt;
 &lt;/suite&gt; &lt;!-- Run Test Case Class --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -215,7 +188,10 @@ Caused by: java.net.ConnectException: Connection refused: connect
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">run on remote VM remote_chrome (1 class)</span>
+                <span class="test-name">Run on remote local remote_chrome (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">Run on remote local remote_ff (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -241,16 +217,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'TC_01_Register_With_Valid_Data')
 data.setCell(0, 2, 'user.demo.nopcommerce.com.TC_01_Register')
-data.setCell(0, 3, 0);
+data.setCell(0, 3, 20308);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'TC_01_Register_With_Valid_Data')
+data.setCell(1, 2, 'user.demo.nopcommerce.com.TC_01_Register')
+data.setCell(1, 3, 19710);
 window.suiteTableData['Run_Test_Case_Class']= { tableData: data, tableDiv: 'times-div-Run_Test_Case_Class'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 0 ms</span>
+              <span class="suite-total-time">Total running time: 40 seconds</span>
               <div id="times-div-Run_Test_Case_Class">
               </div> <!-- times-div-Run_Test_Case_Class -->
             </div> <!-- times-div -->
@@ -261,6 +241,56 @@ return data;
             <span class="header-content">Reporter output for Run Test Case Class</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">TC_01_Register_With_Valid_Data</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:14,178] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:31,249] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:31,507] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:31,824] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:32,146] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:32,422] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:32,667] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:32,936] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:34,201] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:34,378]  -------------------------- PASSED -------------------------- 
+</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">TC_01_Register_With_Valid_Data</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:19,388] TC_01_Register_With_Valid_User_Name_Password - Step 1: Click on 'Register' field 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:36,257] TC_01_Register_With_Valid_User_Name_Password - Step 2: Select gender
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:36,586] TC_01_Register_With_Valid_User_Name_Password - Step 3: Input 'first name' textbox
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:36,787] TC_01_Register_With_Valid_User_Name_Password - Step 4: Input 'last name' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:36,986] TC_01_Register_With_Valid_User_Name_Password - Step 5: Input 'email' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:37,285] TC_01_Register_With_Valid_User_Name_Password - Step 6: Input 'password' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:37,474] TC_01_Register_With_Valid_User_Name_Password - Step 7: Input 'confirm password' textbox 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:37,714] TC_01_Register_With_Valid_User_Name_Password - Step 8: Click on 'Register' field 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:38,824] TC_01_Register_With_Valid_User_Name_Password - Step 9: Verify register successful msg is displayed 
+</span>
+                <span class="reporter-method-output">[INFO ] [2022-05-25 14:40:39,095]  -------------------------- PASSED -------------------------- 
+</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Run_Test_Case_Class" class="panel">
@@ -278,21 +308,29 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">user.demo.nopcommerce.com.TC_01_Register</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">initBrowser(remote_chrome, https://demo.nopcommerce.com/, mgmdaddeevm01/, 4444)</span>
+                <span class="method-name">initBrowser(remote_chrome, https://demo.nopcommerce.com/, localhost, 4444)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
-              <div class="configuration-class after">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">afterClass</span>
-                <span class="method-start">3977 ms</span>
-              </div> <!-- configuration-class after -->
+              <div class="configuration-class before">
+                <span class="method-name">initBrowser(remote_firefox, https://demo.nopcommerce.com/, localhost, 4444)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">TC_01_Register_With_Valid_Data</span>
-                <span class="method-start">-1652950016696 ms</span>
+                <span class="method-start">8342 ms</span>
               </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">TC_01_Register_With_Valid_Data</span>
+                <span class="method-start">13657 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">28852 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">33387 ms</span>
+              </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
